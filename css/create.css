@@ -1,0 +1,30 @@
+.create{
+  width: 100%;
+  padding: 1rem;
+}
+.create form {
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  
+}
+.create input{
+  margin: .5rem;
+  padding: .9rem;
+  
+}
+.create textarea{
+  margin: .5rem;
+  padding: .9rem;
+}
+.btn{
+  width: 20%;
+  margin-left: 15rem;
+  padding: 1rem;
+  background-color: navy;
+  color: white;
+  border: 1px solid navy;
+  border-radius: 2%;
+}
+

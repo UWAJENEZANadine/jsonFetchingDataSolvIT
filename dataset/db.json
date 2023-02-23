@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server one",
+      "author": "typicode olving a problem which is a common abbreviation for Information Technology, but also reads as and lastly the continent where we are based. We’re equipping the youth with the skills they need to solve information technology problems for the African continent."
+    },
+    {
+      "id": 2,
+      "title": "json-server two",
+      "author": "typicode olving a problem which is a common abbreviation for Information Technology, but also reads as and lastly the continent where we are based. We’re equipping the youth with the skills they need to solve information technology problems for the African continent."
+    },
+    {
+      "title": "jj",
+      "author": "kk",
+      "content": "kk",
+      "id": 3
+    }
+  ]
+}
